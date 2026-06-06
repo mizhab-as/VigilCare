@@ -197,13 +197,13 @@ By the end of the hackathon:
 Each member must have at least one commit
 
 ⚠️ Disqualification Criteria
-Use of pre-built / pre-developed projects
+Use of pre-built / pre-developed projects.
 
-Fake or manipulated commit history
+Fake or manipulated commit history.
 
-Missing hourly commits or progress updates
+Missing hourly commits or progress updates.
 
-Incomplete or inconsistent changelog
+Incomplete or inconsistent changelog.
 
 🏁 Final Note
 Focus on building, learning, and enjoying the experience.
